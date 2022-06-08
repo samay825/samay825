@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on *Panda Database*
 
-- 👯 I’m looking to collaborate on *VaimSamay*
+- 👯 I’m looking to collaborate on *Companies*
 
-- 🤝 I’m looking for help with *VaimSamay*
+- 🤝 I’m looking for help with *VaimZork*
 
 - 👨‍💻 All of my projects are available at [this github](this github)
 
