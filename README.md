@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blackhat Samay</h1>
+<h1 align="center">Hi 👋, I'm Zork</h1>
 <h3 align="center">A Python Database developer & OSCP Certified from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samay825&label=Profile%20views&color=0e75b6&style=flat" alt="samay825" /> </p>
