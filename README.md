@@ -1,7 +1,7 @@
 <h1 align="center">☠️ ZORK | POWERFUL CODER ☠️</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=System+Breach+Specialist;Kernel+Ghost;Dark+Web+Architect;Shadow+Network+Operator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Zork+Automation+Specialist;Kernel+Ghost;Dark+Web+Architect;Zork+Network+Operator" alt="Typing SVG" />
 </p>
 
 <div align="center">
