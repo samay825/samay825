@@ -1,63 +1,81 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Here’s a more animated and engaging design for your GitHub README file with animations, dynamic badges, and enhanced visuals:
+
+---
+
+# 👋 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
 <a href="https://www.instagram.com/sincryptzork/">
-  <img align="left" alt="Zork Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Zork's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="mailto:sinzork@mail2tor.com">
+  <img align="left" alt="Zork's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=samay825.samay825)
+![](https://visitor-badge.glitch.me/badge?page_id=mygithhub.mygithhub)
 
 <br />
 
-hi, i'm [Ethical Hacker Zork](https://www.youtube.com/channel/UC45C7EGQrkA1plv00m51h7g), a passionate self-taught Powerful Ethical Hacker and C,C++,JS,Shell and Python developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm **[Ethical Hacker Zork](https://www.youtube.com/channel/UC45C7EGQrkA1plv00m51h7g)**!  
+I’m a passionate **self-taught Ethical Hacker**, **developer**, and **freelance software engineer** from India 🇮🇳.  
+I specialize in **C, C++, JavaScript, Python, and Shell Scripting**, building elegant, efficient software solutions.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+🎯 **My Focus**:  
+- Creating secure systems and ethical hacking  
+- Open-source contributions and collaboration  
+- Designing intuitive interfaces and high-quality software  
 
+---
 
-  <img align="right" alt="GIF" src="https://github.com/vaimpierritik/vaimpierritik/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:sinzork@mail2tor.com) :)
-- 💬 ask me about anything, i am happy to help;
+<img align="right" src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" alt="coding" width="400px"/>
 
-**languages and tools:**  
+### 🛠️ **Languages and Tools**:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,vue,react,graphql,python,cpp,bash,mysql,firebase,git,linux" alt="tools" />
+</p>
 
-📊 **this week i spent my time on:**
+---
+
+### 📈 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mygithhub&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mygithhub&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mygithhub&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🧑‍💻 **This Week's Focus**  
 <!--START_SECTION:waka-->
-
 ```text
-C/C++   2 hrs 52 mins        ███████████████████████▓░   94.04 %
-Bash         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C/C++        3 hrs 10 mins ████████████████▒░░░░░░░░   78.94%
+Bash         40 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.63%
+JavaScript   10 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.43%
 ```
-
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/samay" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### ☕ **Support Me**  
+Do you like my work? Help keep me fueled with coffee/tea! 🥰  
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<a href="https://www.buymeacoffee.com/samay" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
+</a>
 
+---
 
-📈 my github stats
+### 🌟 **Fun Stats**  
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mygithhub&theme=redical" alt="GitHub Activity Graph" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=gotham" alt="Ethical Hacker Zork" />
-<br>
+---
+
+### 🚀 **Contact Me**  
+- 💼 Freelance Work? **[Email Me](mailto:sinzork@mail2tor.com)**  
+- 💬 Have Questions? **Feel Free to Ask**  
+
+---
+
+You can tweak this further based on your preference or style! 😊
