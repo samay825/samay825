@@ -1,4 +1,5 @@
 :
+
 ---
 
 # 👋 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
@@ -27,7 +28,7 @@ I love transforming ideas into code and building solutions for secure systems an
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/samay825/samay825/main/assets/hacker.gif" alt="coding" width="350px"/>
+<img align="right" alt="GIF" src="https://github.com/vaimpierritik/vaimpierritik/blob/main/code.gif?raw=true" width="400" height="300" />
 
 ### 🛠️ **Tech Stack & Tools**:  
 <p align="center">
@@ -83,5 +84,3 @@ Enjoy my content or work? Fuel my projects with coffee/tea! 🥺👉👈
 - 📷 **[Instagram](https://www.instagram.com/sincryptzork/)**  
 
 ---
-
-This README incorporates advanced graphics, a responsive design, and your specific GitHub profile statistics. Let me know if you'd like any further modifications! 😊
