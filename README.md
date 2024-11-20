@@ -31,9 +31,9 @@
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000"/>
-</p>
+</p> -->
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=samay825&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
