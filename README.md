@@ -18,12 +18,8 @@
 [FATAL] Ghost protocol initiated
 ```
 
-### [🔮] Dark Web Operations
-```text
-████████████████████████   PORT:  443/TCP   STATUS: BREACHED
-███████████████████░░░░   PING:  0.001ms   STEALTH: ACTIVE
-██████████████░░░░░░░░░   NODE:  GHOST     TRACES: NONE
-```
+🛠️ Tech Stack & Tools:
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,vue,linux,bash,mysql,firebase,git,github" alt="Tech Stack" /> </p>
 
 ### [💀] Threat Matrix
 ```text
