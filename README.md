@@ -1,4 +1,3 @@
-:
 
 ---
 
@@ -28,7 +27,11 @@ I love transforming ideas into code and building solutions for secure systems an
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/vaimpierritik/vaimpierritik/blob/main/code.gif?raw=true" width="400" height="300" />
+<p align="center">
+  <img alt="GIF" src="https://github.com/vaimpierritik/vaimpierritik/blob/main/code.gif?raw=true" width="400" />
+</p>
+
+---
 
 ### 🛠️ **Tech Stack & Tools**:  
 <p align="center">
