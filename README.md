@@ -14,7 +14,7 @@
 
 ## Welcome to My World 🌐  
 Hi, I'm **[Zork (Ethical Hacker)](https://www.youtube.com/channel/UC45C7EGQrkA1plv00m51h7g)**!  
-I’m a passionate **self-taught Ethical Hacker**, **developer**, and **freelance software engineer** from India 🇮🇳.  
+I’m a passionate **Powerful self-taught Ethical Hacker**, **developer**, and **freelance software engineer** from India 🇮🇳.  
 I love transforming ideas into code and building solutions for secure systems and elegant user experiences.
 
 🎯 **My Focus Areas**:  
