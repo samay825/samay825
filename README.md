@@ -29,27 +29,16 @@
 [►] Data Extraction  [████████████████░░░░] 88%
 ```
 
-### [⚡] Core Arsenal
-```python
-#!/usr/bin/env python3
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> </p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000"/>
+</p>
 
-class ShadowOperator:
-    def __init__(self):
-        self.codename = "PHANTOM_SAMAY"
-        self.status = "DARK_MODE_ENGAGED"
-        self.security_level = "MAXIMUM_THREAT"
-        self.capabilities = [
-            "System_Exploitation",
-            "Network_Decimation", 
-            "Kernel_Manipulation",
-            "Zero_Day_Arsenal"
-        ]
-    
-    def locate(self):
-        return "<<SIGNAL_UNTRACEABLE>>"
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=samay825&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
+</p>
 
-wraith = ShadowOperator()
-```
 
 ### [🎭] Phantom Protocol
 <div align="center">
@@ -86,18 +75,7 @@ wraith = ShadowOperator()
 [![](https://img.shields.io/badge/⚡_Ghost_Protocol-ENGAGED-red?style=flat-square&color=black)](https://github.com/)
 [![](https://img.shields.io/badge/🌑_Dark_Operations-COMPLETE-red?style=flat-square&color=black)](https://github.com/)
 
-### [📊] Shadow Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=dark&line_height=27&hide_border=true&bg_color=000000&icon_color=FF0000&title_color=FF0000&text_color=FF0000"/>
-</p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=samay825&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
-</p>
 
 ### [🕷️] Digital Footprints
 ```ascii
