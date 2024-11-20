@@ -1,5 +1,4 @@
-Here’s a more animated and engaging design for your GitHub README file with animations, dynamic badges, and enhanced visuals:
-
+:
 ---
 
 # 👋 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
@@ -11,71 +10,78 @@ Here’s a more animated and engaging design for your GitHub README file with an
   <img align="left" alt="Zork's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mygithhub.mygithhub)
+![](https://komarev.com/ghpvc/?username=samay825&label=Profile+Views&color=blueviolet&style=flat-square)  
 
 <br />
 
-Hi, I'm **[Ethical Hacker Zork](https://www.youtube.com/channel/UC45C7EGQrkA1plv00m51h7g)**!  
+## Welcome to My World 🌐  
+Hi, I'm **[Zork (Ethical Hacker)](https://www.youtube.com/channel/UC45C7EGQrkA1plv00m51h7g)**!  
 I’m a passionate **self-taught Ethical Hacker**, **developer**, and **freelance software engineer** from India 🇮🇳.  
-I specialize in **C, C++, JavaScript, Python, and Shell Scripting**, building elegant, efficient software solutions.
+I love transforming ideas into code and building solutions for secure systems and elegant user experiences.
 
-🎯 **My Focus**:  
-- Creating secure systems and ethical hacking  
-- Open-source contributions and collaboration  
-- Designing intuitive interfaces and high-quality software  
+🎯 **My Focus Areas**:  
+- Ethical Hacking & Cybersecurity  
+- Open Source Contributions  
+- Secure Software Development  
+- Python, Shell, and C++ Programming  
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" alt="coding" width="400px"/>
+<img align="right" src="https://raw.githubusercontent.com/samay825/samay825/main/assets/hacker.gif" alt="coding" width="350px"/>
 
-### 🛠️ **Languages and Tools**:
-
+### 🛠️ **Tech Stack & Tools**:  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,vue,react,graphql,python,cpp,bash,mysql,firebase,git,linux" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,vue,linux,bash,mysql,firebase,git,github" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 **GitHub Stats**  
+### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mygithhub&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mygithhub&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mygithhub&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🧑‍💻 **This Week's Focus**  
+### 🌟 **Weekly Focus**
 <!--START_SECTION:waka-->
 ```text
-C/C++        3 hrs 10 mins ████████████████▒░░░░░░░░   78.94%
-Bash         40 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.63%
-JavaScript   10 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.43%
+C/C++        3 hrs 20 mins ████████████████▒░░░░░░░░   82.94%
+Python       40 mins       ████▒░░░░░░░░░░░░░░░░░░░░   10.63%
+JavaScript   20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43%
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-### ☕ **Support Me**  
-Do you like my work? Help keep me fueled with coffee/tea! 🥰  
+### ☕ **Support My Work**
+Enjoy my content or work? Fuel my projects with coffee/tea! 🥺👉👈  
 
 <a href="https://www.buymeacoffee.com/samay" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="150" alt="Buy Me A Coffee" />
 </a>
 
 ---
 
-### 🌟 **Fun Stats**  
+### 🚀 **Fun Stats**  
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mygithhub&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samay825&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 **Contact Me**  
-- 💼 Freelance Work? **[Email Me](mailto:sinzork@mail2tor.com)**  
-- 💬 Have Questions? **Feel Free to Ask**  
+### 🏆 **Activity Graph**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samay825&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-You can tweak this further based on your preference or style! 😊
+### 💬 **Contact Me**
+- 📧 **[Email](mailto:sinzork@mail2tor.com)**  
+- 📷 **[Instagram](https://www.instagram.com/sincryptzork/)**  
+
+---
+
+This README incorporates advanced graphics, a responsive design, and your specific GitHub profile statistics. Let me know if you'd like any further modifications! 😊
