@@ -14,20 +14,37 @@
 
 ---
 
-### 🌟 About Me
+### 🌟 [ABOUT ME] Code Architect and Innovator
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=I+am+Zork+%7C+Ethical+Hacker;Freelance+Software+Engineer;Open-Source+Contributor;System+Architecture+Specialist" alt="Typing SVG" />
-</p>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&lines=👋+Greetings!+I+am+Zork.;💻+Ethical+Hacker+%7C+OSINT+Expert+%7C+Python3+Automation+Specialist;🎯+Transforming+Ideas+Into+Impactful+Code;🌌+Freelance+Software+Engineer+%7C+Open-Source+Advocate" alt="Animated Typing SVG">
+</div>
 
-I am **Zork**, a dedicated self-taught **Ethical Hacker** and **Freelance Software Engineer** based in India. Proficient in **C, C++, JS, Shell**, and **Python**, I am passionate about turning concepts into reality through innovative interfaces.
+---
 
-💡 I focus on:
-- **User experience** and interface design.
-- **System architecture** optimization.
-- Writing **high-quality code** with precision.
+### Who Am I?
 
-🔗 I'm a proud advocate and maintainer of **open-source projects**. The open-source community has significantly influenced my learning, and I strive to give back by contributing and collaborating.
+I am **Zork**, a passionate and self-taught **Ethical Hacker**, **OSINT Expert**, and **Python3 Automation Specialist**. Based in India, my expertise spans **C, C++, JavaScript, Shell**, and **Python**, where I build tools and solutions to bridge innovation with execution.
+
+---
+
+💡 **Key Areas of Focus**:
+- **User-Centric Solutions**: Designing interfaces that are seamless and intuitive.
+- **System Architecture**: Crafting efficient, scalable, and robust backends.
+- **Code Precision**: Writing clean, secure, and high-quality software.
+
+---
+
+🔗 **Advocate for Open Source**:
+As a proud contributor and maintainer, I deeply value the **open-source community**, which has been pivotal in my learning journey. I actively contribute to projects that foster innovation, collaboration, and shared knowledge.
+
+---
+
+### 🌟 [VISION]
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Empowering+Technology+Through+Precision+and+Integrity;Inspiring+a+Better+Tomorrow+Through+Code" alt="Vision Typing Animation">
+</div>
 
 ---
 
