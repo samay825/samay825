@@ -1,5 +1,3 @@
----
-
 <h1 align="center">☠️ ZORK | POWERFUL CODER ☠️</h1>
 
 <p align="center">
@@ -13,7 +11,9 @@
 </div>
 
 <div align="center">
-    <pre>▬▬▬▬▬ 🟢 🟠 🔵 ▬▬▬▬▬</pre>
+    <pre>
+        ▬▬▬▬▬ 🟢 🟠 🔵 ▬▬▬▬▬
+    </pre>
 </div>
 
 
