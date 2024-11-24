@@ -31,18 +31,6 @@ I am **Zork**, a passionate and self-taught **Ethical Hacker**, **OSINT Expert**
 
 ---
 
-💡 **Key Areas of Focus**:
-- **User-Centric Solutions**: Designing interfaces that are seamless and intuitive.
-- **System Architecture**: Crafting efficient, scalable, and robust backends.
-- **Code Precision**: Writing clean, secure, and high-quality software.
-
----
-
-🔗 **Advocate for Open Source**:
-As a proud contributor and maintainer, I deeply value the **open-source community**, which has been pivotal in my learning journey. I actively contribute to projects that foster innovation, collaboration, and shared knowledge.
-
----
-
 ### 🌟 [VISION]
 
 <div align="center">
