@@ -1,3 +1,5 @@
+---
+
 <h1 align="center">☠️ ZORK | POWERFUL CODER ☠️</h1>
 
 <p align="center">
@@ -6,9 +8,28 @@
 
 <div align="center">
     <a href="https://www.instagram.com/sincryptzork/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black"/></a>
-    <a href="https://www.youtube.com/channel/UC45C7EGQrkA1plv00m51h7g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black"/></a>
+    <a href="https://youtube.com/@zork825?si=F0v46cvlC6RYJwaC"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black"/></a>
     <a href="https://t.me/sincryptzork"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black"/></a>
 </div>
+
+---
+
+### 🌟 About Me
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=I+am+Zork+%7C+Ethical+Hacker;Freelance+Software+Engineer;Open-Source+Contributor;System+Architecture+Specialist" alt="Typing SVG" />
+</p>
+
+I am **Zork**, a dedicated self-taught **Ethical Hacker** and **Freelance Software Engineer** based in India. Proficient in **C, C++, JS, Shell**, and **Python**, I am passionate about turning concepts into reality through innovative interfaces.
+
+💡 I focus on:
+- **User experience** and interface design.
+- **System architecture** optimization.
+- Writing **high-quality code** with precision.
+
+🔗 I'm a proud advocate and maintainer of **open-source projects**. The open-source community has significantly influenced my learning, and I strive to give back by contributing and collaborating.
+
+---
 
 ### [⚠️] System Warning
 ```css
@@ -18,8 +39,12 @@
 [FATAL] Ghost protocol initiated
 ```
 
-🛠️ Tech Stack & Tools:
+---
+
+🛠️ **Tech Stack & Tools**  
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,vue,linux,bash,mysql,firebase,git,github" alt="Tech Stack" /> </p>
+
+---
 
 ### [💀] Threat Matrix
 ```text
@@ -29,25 +54,26 @@
 [►] Data Extraction  [████████████████░░░░] 88%
 ```
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> </p>
-<!-- <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=dark&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000"/>
-</p> -->
+📈 **GitHub Stats**  
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> 
+</p>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=samay825&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=FF0000&no-bg=true"/>
 </p>
 
+---
 
 ### [🎭] Phantom Protocol
 <div align="center">
-
-![](https://img.shields.io/badge/Signal_Trace-BLOCKED-FF0000?style=flat-square&color=000000)
-![](https://img.shields.io/badge/System_Access-ROOT-FF0000?style=flat-square&color=000000)
-![](https://img.shields.io/badge/Detection-VOID-FF0000?style=flat-square&color=000000)
-
+    ![](https://img.shields.io/badge/Signal_Trace-BLOCKED-FF0000?style=flat-square&color=000000)
+    ![](https://img.shields.io/badge/System_Access-ROOT-FF0000?style=flat-square&color=000000)
+    ![](https://img.shields.io/badge/Detection-VOID-FF0000?style=flat-square&color=000000)
 </div>
+
+---
 
 ### [🔪] Weapon Stack
 <div align="center">
@@ -59,6 +85,8 @@
     
 </div>
 
+---
+
 ### [⚔️] Operation Status
 ```text
 [>>] Kernel Takeover   [▰▰▰▰▰▰▰▰▰▱] 95%
@@ -68,14 +96,7 @@
 [>>] Shadow Protocol   [▰▰▰▰▰▰▰▰▰▱] 90%
 ```
 
-
-
-### [⚔️] Current Missions      [▰▰▰▰▰▰▰▰▰▱] 95%
-[![](https://img.shields.io/badge/☠️_System_Breach-ACTIVE-red?style=flat-square&color=black)](https://github.com/)
-[![](https://img.shields.io/badge/⚡_Ghost_Protocol-ENGAGED-red?style=flat-square&color=black)](https://github.com/)
-[![](https://img.shields.io/badge/🌑_Dark_Operations-COMPLETE-red?style=flat-square&color=black)](https://github.com/)
-
-
+---
 
 ### [🕷️] Digital Footprints
 ```ascii
@@ -84,3 +105,7 @@
 [X] Target       : ACQUIRING
 [X] Threat Level : CRITICAL
 ```
+
+---
+
+This refined version maintains the theme while incorporating your background as a professional coder and ethical hacker.
