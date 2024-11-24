@@ -11,8 +11,9 @@
 </div>
 
 <div align="center">
-    <img src="https://via.placeholder.com/800x5/00FF00/00FF00?text=+" alt="Dashed Line" width="80%" />
+    <img src="https://user-images.githubusercontent.com/70271702/202712457-d291b30c-7d42-4f85-bf2a-b6fb51dece7b.gif" alt="Animated Gradient Line" width="80%" />
 </div>
+
 
 
 
