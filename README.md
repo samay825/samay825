@@ -12,7 +12,10 @@
     <a href="https://t.me/sincryptzork"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black"/></a>
 </div>
 
----
+<div align="center">
+    <pre>▬▬▬▬▬ 🟢 🟠 🔵 ▬▬▬▬▬</pre>
+</div>
+
 
 ### 🌟 [ABOUT ME] Code Architect and Innovator
 
