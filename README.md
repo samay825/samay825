@@ -14,40 +14,21 @@
 
 ---
 
-Here’s a more visually enhanced and animated version of the "About Me" section that integrates vibrant colors and a professional tone, highlighting your expertise as an OSINT Expert and Python3 Automation Specialist:
+### 🌟 About Me
 
----
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=I+am+Zork+%7C+Ethical+Hacker;Freelance+Software+Engineer;Open-Source+Contributor;System+Architecture+Specialist" alt="Typing SVG" />
+</p>
 
-### 🌌 [ABOUT ME] **Zork**  
+I am **Zork**, a dedicated self-taught **Ethical Hacker** and **Freelance Software Engineer** based in India. Proficient in **C, C++, JS, Shell**, and **Python**, I am passionate about turning concepts into reality through innovative interfaces.
 
-```ansi
-[38;5;46m[>>>] Identity:[0m[38;5;214m Powerful Destroyer Zork[0m
-[38;5;46m[>>>] Role:[0m[38;5;82m Ethical Hacker[0m |[38;5;220m OSINT Expert[0m |[38;5;214m Python3 Automation Specialist[0m
-[38;5;46m[>>>] Status:[0m[38;5;45m Innovating Interfaces[0m &[38;5;45m Crafting Code[0m
-```
+💡 I focus on:
+- **User experience** and interface design.
+- **System architecture** optimization.
+- Writing **high-quality code** with precision.
 
-🚀 **I am Zork**, a **self-taught Ethical Hacker**, seasoned **OSINT Expert**, and proficient **Python3 Automation Specialist**. My skills extend across **C, C++, JS, Shell**, and **Python**, with a passion for building sophisticated tools and intuitive systems.  
+🔗 I'm a proud advocate and maintainer of **open-source projects**. The open-source community has significantly influenced my learning, and I strive to give back by contributing and collaborating.
 
-I thrive on challenges, leveraging my expertise to design and deploy solutions that deliver **impact, efficiency**, and **precision**.  
-
-💡 **Core Expertise**:  
-- **OSINT Mastery**: Extracting actionable intelligence from the web.  
-- **Automation**: Crafting Python3 workflows to simplify the complex.  
-- **System Design**: Architecting scalable, robust systems.  
-- **Secure Coding**: Ensuring optimal performance and security in all projects.  
-
-✨ As an advocate for **open-source initiatives**, I actively contribute to and maintain projects that foster learning and collaboration. The open-source community fuels my growth, and I’m committed to enriching it with innovative ideas and impactful contributions.
-
----
-
-### 🎯 [MISSION] Empowering Through Technology  
-
-```ansi
-[38;5;46m[>>>][0m[38;5;118m Objective:[0m [38;5;226mPush Boundaries[0m, [38;5;214mRedefine Standards[0m, [38;5;208mInspire Through Code[0m.  
-[38;5;89JqxYhwkS2fejRrz7XZ1hexF7DoXPf1YUHvn93BaFG5Kirve1JY4waTfhxJuJzEMYVJA8G2qXXAT7QW7rJs4tsAUQRjdab;5;196mSecurity[0m.  
-[38;5;89JqxYhwkS2fejRrz7XZ1hexF7DoXPf1YUHvn93BaFG5Kirve1JY4waTfhxJuJzEMYVJA8G2qXXAT7QW7rJs4tsAUQRjdab214mImpact[0m.  
-[38;5;46m[>>>][0m[38;5;118m Vision:[0m   [38;5;51mEmpower Through Technology[0m, [38;5;196mInspire a Better Tomorrow[0m.
-```
 ---
 
 ### [⚠️] System Warning
@@ -126,5 +107,3 @@ I thrive on challenges, leveraging my expertise to design and deploy solutions t
 ```
 
 ---
-
-This refined version maintains the theme while incorporating your background as a professional coder and ethical hacker.
