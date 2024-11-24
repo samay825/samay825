@@ -11,10 +11,9 @@
 </div>
 
 <div align="center">
-    <pre>
-        ▬▬▬▬▬ 🟢 🟠 🔵 ▬▬▬▬▬
-    </pre>
+    <img src="https://via.placeholder.com/800x5/00FF00/00FF00?text=+" alt="Dashed Line" width="80%" />
 </div>
+
 
 
 ### 🌟 [ABOUT ME] Code Architect and Innovator
