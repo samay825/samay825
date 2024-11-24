@@ -1,5 +1,3 @@
-Here’s the restructured and visually appealing version of your content with better alignment, styling, and flow:
-
 ---
 
 <h1 align="center">☠️ ZORK | POWERFUL CODER ☠️</h1>
@@ -12,10 +10,6 @@ Here’s the restructured and visually appealing version of your content with be
     <a href="https://www.instagram.com/sincryptzork/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
     <a href="https://youtube.com/@zork825?si=F0v46cvlC6RYJwaC"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" alt="YouTube Badge"/></a>
     <a href="https://t.me/sincryptzork"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" alt="Telegram Badge"/></a>
-</div>
-
-<div align="center" style="margin: 20px;">
-    <img src="https://user-images.githubusercontent.com/70271702/202712457-d291b30c-7d42-4f85-bf2a-b6fb51dece7b.gif" alt="Animated Gradient Line" width="80%" />
 </div>
 
 ### 🌟 [ABOUT ME] Code Architect and Innovator
