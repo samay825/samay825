@@ -14,20 +14,24 @@
 
 ---
 
-### 🌟 About Me
+### 🌌 [ABOUT ME] Digital Artisan of Code  
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=I+am+Zork+%7C+Ethical+Hacker;Freelance+Software+Engineer;Open-Source+Contributor;System+Architecture+Specialist" alt="Typing SVG" />
-</p>
+```ascii
+[>>>] Identity: Zork
+[>>>] Role: Ethical Hacker | Software Engineer | Open-Source Advocate
+[>>>] Status: Innovating Interfaces & Crafting Code
+```
 
-I am **Zork**, a dedicated self-taught **Ethical Hacker** and **Freelance Software Engineer** based in India. Proficient in **C, C++, JS, Shell**, and **Python**, I am passionate about turning concepts into reality through innovative interfaces.
+I am **Zork**, a passionate, self-taught **Ethical Hacker** and **Freelance Software Engineer** from India. Proficient in **C, C++, JS, Shell, and Python**, I thrive on crafting solutions that bridge ideas with execution, focusing on:
 
-💡 I focus on:
-- **User experience** and interface design.
-- **System architecture** optimization.
-- Writing **high-quality code** with precision.
+- **User-Centric Interfaces**: Bringing intuitive designs to life.  
+- **System Architecture**: Ensuring robust, scalable foundations.  
+- **Code Precision**: Writing efficient, maintainable, and secure software.
 
-🔗 I'm a proud advocate and maintainer of **open-source projects**. The open-source community has significantly influenced my learning, and I strive to give back by contributing and collaborating.
+An avid contributor to the **open-source ecosystem**, I recognize the profound value of collaboration and collective knowledge. My journey in technology has been shaped by the open-source community, and I take pride in giving back as a dedicated maintainer and contributor.
+
+#### [>>>] Mission Directive: Empower Through Innovation  
+I approach every challenge as an opportunity to push boundaries, redefine standards, and inspire creativity. From ethical hacking to software engineering, my focus remains steadfast: **quality, integrity, and impact**.
 
 ---
 
