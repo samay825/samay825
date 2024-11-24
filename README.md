@@ -16,8 +16,8 @@
 
 ### 🌟 [ABOUT ME] Code Architect and Innovator
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&lines=👋+Greetings!+I+am+Zork.;💻+Ethical+Hacker+%7C+OSINT+Expert+%7C+Python3+Automation+Specialist;🎯+Transforming+Ideas+Into+Impactful+Code;🌌+Freelance+Software+Engineer+%7C+Open-Source+Advocate" alt="Animated Typing SVG">
+<div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Greetings!+I+am+Zork.;💻+Ethical+Hacker+%7C+OSINT+Expert+%7C+Python3+Automation+Specialist;🎯+Transforming+Ideas+Into+Impactful+Code;🌌+Freelance+Software+Engineer+%7C+Open-Source+Advocate" alt="Animated Typing SVG"> 
 </div>
 
 ---
