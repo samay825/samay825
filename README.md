@@ -66,11 +66,16 @@ I am **Zork**, a dedicated self-taught **Ethical Hacker** and **Freelance Softwa
 
 ---
 
-### [🎭] Phantom Protocol
+If the images are not rendering correctly in your README file, there might be an issue with the formatting or placement. Here's a corrected and well-structured version to ensure the badges display properly:
+
+---
+
+### 🎭 [PHANTOM PROTOCOL]
+
 <div align="center">
-    ![](https://img.shields.io/badge/Signal_Trace-BLOCKED-FF0000?style=flat-square&color=000000)
-    ![](https://img.shields.io/badge/System_Access-ROOT-FF0000?style=flat-square&color=000000)
-    ![](https://img.shields.io/badge/Detection-VOID-FF0000?style=flat-square&color=000000)
+  <img src="https://img.shields.io/badge/Signal_Trace-BLOCKED-FF0000?style=flat-square&color=000000" alt="Signal Trace: BLOCKED" />
+  <img src="https://img.shields.io/badge/System_Access-ROOT-FF0000?style=flat-square&color=000000" alt="System Access: ROOT" />
+  <img src="https://img.shields.io/badge/Detection-VOID-FF0000?style=flat-square&color=000000" alt="Detection: VOID" />
 </div>
 
 ---
