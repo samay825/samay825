@@ -24,19 +24,6 @@
 
 ---
 
-### Improvements and Restructuring:
-
-1. **Consistency in Alignment**: All visual elements are centered for better aesthetics.
-2. **Gradient Divider Placement**: The animated line divides sections cleanly.
-3. **Enhanced Badge Layout**: Social media badges are spaced and aligned for improved readability.
-4. **Color Harmony**: Unified the theme with green and red to align with your hacker persona while maintaining a clean look.
-5. **Markdown Validity**: The structure ensures compatibility with GitHub Markdown rendering.
-
-You can copy-paste this directly into your README.md file, and it should render beautifully!
-
----
-
-
 ### Who Am I?
 
 I am **Zork**, a passionate and self-taught **Ethical Hacker**, **OSINT Expert**, and **Python3 Automation Specialist**. Based in India, my expertise spans **C, C++, JavaScript, Shell**, and **Python**, where I build tools and solutions to bridge innovation with execution.
