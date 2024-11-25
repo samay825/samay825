@@ -73,10 +73,6 @@ I am **Zork**, a passionate and self-taught **Ethical Hacker**, **OSINT Expert**
 
 ---
 
-If the images are not rendering correctly in your README file, there might be an issue with the formatting or placement. Here's a corrected and well-structured version to ensure the badges display properly:
-
----
-
 ### 🎭 [PHANTOM PROTOCOL]
 
 <div align="center">
